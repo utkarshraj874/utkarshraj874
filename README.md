@@ -1,30 +1,28 @@
-<!-- ============ HEADER ============ -->
+<!-- ============ HEADER (static, full name visible) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0077B6,100:00D9FF&height=220&section=header&text=Manish%20Kumar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Generative%20AI&descSize=18&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00D9FF&height=260&section=header&text=Manish%20Kumar&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Generative%20AI&descSize=18&descAlignY=58" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/utkarshraj874">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Agentic+RAG+%7C+LangChain+%7C+LangGraph;FastAPI+%7C+PostgreSQL+%7C+Docker;OCR+%7C+OpenCV+%7C+Computer+Vision;500%2B+DSA+problems+solved;Turning+ideas+into+real-world+AI+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=D946EF&center=true&vCenter=true&width=700&height=50&lines=Agentic+RAG+%7C+LangChain+%7C+LangGraph;FastAPI+%7C+PostgreSQL+%7C+Docker;OCR+%7C+OpenCV+%7C+Computer+Vision;500%2B+DSA+problems+solved;Turning+ideas+into+real-world+AI+apps" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarshraj874&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="views"/>
-  <img src="https://img.shields.io/badge/IIIT%20Ranchi-CSE%20'28-0077B6?style=for-the-badge&logo=googlescholar&logoColor=white" alt="college"/>
+  <img src="https://komarev.com/ghpvc/?username=utkarshraj874&label=Profile%20Views&color=FF0080&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/badge/IIIT%20Ranchi-CSE%20'28-7928CA?style=for-the-badge&logo=googlescholar&logoColor=white" alt="college"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-00C853?style=for-the-badge" alt="open"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/utkarshraj874"><img src="https://img.shields.io/badge/GitHub-utkarshraj874-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/utkarshraj874"><img src="https://img.shields.io/badge/GitHub-utkarshraj874-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mk8229025545@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ============ ABOUT ============ -->
-## ⚡ About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:7928CA&height=56&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 ```python
 class ManishKumar:
@@ -48,10 +46,8 @@ me = ManishKumar()
 - 🧩 Competitive programmer, **500+ problems** on CodeChef, Codeforces and LeetCode
 - 🤝 Open to collaborations, internships and interesting ideas
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ============ TECH STACK ============ -->
-## 🧠 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928CA,100:00D9FF&height=56&section=header&text=Tech%20Stack&fontSize=26&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,postgres,mysql,sqlite,fastapi,docker,git,github,linux,vercel,opencv,sklearn,pytorch,tensorflow,pandas,numpy,jupyter&perline=10" alt="skills"/>
@@ -74,30 +70,28 @@ me = ManishKumar()
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ============ PROJECTS ============ -->
-## 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8008,100:FF0080&height=56&section=header&text=Featured%20Projects&fontSize=26&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <!-- NOTE: change the `repo=` values below to your exact repository names -->
 <p align="center">
   <a href="https://github.com/utkarshraj874/AI-Interview-Simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshraj874&repo=AI-Interview-Simulator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshraj874&repo=AI-Interview-Simulator&hide_border=true&bg_color=30,4A00E0,8E2DE2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700" />
   </a>
   <a href="https://github.com/utkarshraj874/PrashnaMitra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshraj874&repo=PrashnaMitra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshraj874&repo=PrashnaMitra&hide_border=true&bg_color=30,FF0080,7928CA&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/utkarshraj874/Historical-Document-Restoration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshraj874&repo=Historical-Document-Restoration&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshraj874&repo=Historical-Document-Restoration&hide_border=true&bg_color=30,0072FF,00C6FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700" />
   </a>
 </p>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🎤 AI Interview Simulator</h3>
+      <p align="center"><img src="https://img.shields.io/badge/AI%20Interview%20Simulator-8E2DE2?style=for-the-badge"/></p>
       <p align="center"><sub>Jul 2026</sub></p>
       <ul>
         <li>Backend-driven AI interview platform with <b>16 REST endpoints</b> across 5 API modules</li>
@@ -112,7 +106,7 @@ me = ManishKumar()
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">📄 PrashnaMitra</h3>
+      <p align="center"><img src="https://img.shields.io/badge/PrashnaMitra-FF0080?style=for-the-badge"/></p>
       <p align="center"><sub>Agentic RAG PDF Chatbot · Mar 2026</sub></p>
       <ul>
         <li>Agentic RAG with <b>LangChain + LangGraph + ChromaDB</b> over 100+ page docs</li>
@@ -127,7 +121,7 @@ me = ManishKumar()
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">📜 Historical Document Restoration</h3>
+      <p align="center"><img src="https://img.shields.io/badge/Historical%20Document%20Restoration-0072FF?style=for-the-badge"/></p>
       <p align="center"><sub>Sep 2026</sub></p>
       <ul>
         <li>AI document restoration system with <b>10 FastAPI endpoints</b></li>
@@ -144,49 +138,42 @@ me = ManishKumar()
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ============ ACHIEVEMENTS ============ -->
-## 🏆 Achievements
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=56&section=header&text=Achievements&fontSize=26&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h2>500+</h2>
-      <sub>DSA problems solved<br>CodeChef · Codeforces · LeetCode</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>2★</h2>
-      <sub>CodeChef rating<br>max rating <b>1416</b></sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>590</h2>
-      <sub>Best global rank<br>in CodeChef contests<br>(also 611 & 792)</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>24,640</h2>
-      <sub>JEE Mains AIR<br>among 1M+ applicants</sub>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/500%2B-DSA%20Problems%20Solved-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-2%E2%98%85%20%7C%20Max%201416-F59E0B?style=for-the-badge&logo=codechef&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Best%20Global%20Rank-590-10B981?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JEE%20Mains%20AIR-24%2C640-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</p>
+<p align="center"><sub>Other CodeChef global ranks: 611 and 792 · JEE Mains AIR among 1M+ applicants</sub></p>
 
 <!-- ============ GITHUB STATS ============ -->
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=56&section=header&text=GitHub%20Analytics&fontSize=26&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utkarshraj874&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshraj874&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utkarshraj874&show_icons=true&hide_border=true&bg_color=30,FF0080,7928CA&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshraj874&layout=compact&hide_border=true&bg_color=30,7928CA,00A8E8&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=utkarshraj874&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img width="90%" src="https://streak-stats.demolab.com?user=utkarshraj874&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshraj874&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshraj874&bg_color=1B1B2F&color=FF6EC7&line=FF0080&point=FFFFFF&area=true&area_color=7928CA&hide_border=true" alt="Activity Graph"/>
 </p>
 
+<!-- ============ CONNECT ============ -->
+<p align="center">
+  <a href="https://github.com/utkarshraj874"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mk8229025545@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00D9FF&height=120&section=footer" width="100%"/>
+</p>
